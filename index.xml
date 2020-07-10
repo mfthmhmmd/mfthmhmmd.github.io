@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mfthmhmmd pages</title>
+    <link>http://mfthmhmmd.github.io/</link>
+    <description>Recent content on mfthmhmmd pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 18:27:00 +0700</lastBuildDate>
+    
+	<atom:link href="http://mfthmhmmd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init</title>
+      <link>http://mfthmhmmd.github.io/posts/init/</link>
+      <pubDate>Fri, 10 Jul 2020 18:27:00 +0700</pubDate>
+      
+      <guid>http://mfthmhmmd.github.io/posts/init/</guid>
+      <description> “In the beginning, there was nothing.
+ ;; And god said (let [there be] light) </description>
+    </item>
+    
+  </channel>
+</rss>
