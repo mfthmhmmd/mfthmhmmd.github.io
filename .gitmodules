@@ -1,0 +1,3 @@
+[submodule "themes/color"]
+	path = themes/color
+	url = git@gitlab.com:rmaguiar/hugo-theme-color-your-world.git
