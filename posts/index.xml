@@ -6,10 +6,19 @@
     <description>Recent content in Posts on mfthmhmmd pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2020 18:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="http://mfthmhmmd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poor Boy&#39;s Linked List</title>
+      <link>http://mfthmhmmd.github.io/posts/poorboyslinkedlist/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0700</pubDate>
+      
+      <guid>http://mfthmhmmd.github.io/posts/poorboyslinkedlist/</guid>
+      <description>Why we do this? Sebagai pemrogram, pasti di hidup kita pernah ditantang untuk membangun linked list dari awal, entah itu ketika ujian akhir di kampus, technical interview ketika melamar kerja, atau mungkin ketika menghadap calon mertua (kurang tahu pasti alasannya kenapa, mungkin mertua si pemrogram adalah Ilmuwan Komputer). Pada saat-saat genting seperti ini, karena kita adalah pemrogram yang baik hati dan rajin menabung (tech-debt), biasanya yang terpikir pertama kali langsung gas saja untuk membuat class baru dengan nama Node yang memiliki attribute untuk menampung data dan pointer ke Node selanjutnya, lalu ada class dengan nama LinkedList yang memiliki constructor dan menerima Node dan mempunyai methods yang beroperasi pada Node tersebut.</description>
+    </item>
     
     <item>
       <title>Init</title>
@@ -18,7 +27,7 @@
       
       <guid>http://mfthmhmmd.github.io/posts/init/</guid>
       <description> “In the beginning, there was nothing.
- ;; And god said (let [there be] light) </description>
+ </description>
     </item>
     
   </channel>
